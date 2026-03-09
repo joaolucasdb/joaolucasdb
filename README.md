@@ -43,15 +43,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaolucasd/joaolucasd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaolucasd/joaolucasd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaolucasd/joaolucasd/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaolucasdb/joaolucasdb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaolucasdb/joaolucasdb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaolucasdb/joaolucasdb/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaolucasd.joaolucasd&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaolucasdb.joaolucasdb&"  />
 </div>
 
 ###
